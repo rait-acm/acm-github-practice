@@ -154,6 +154,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### *F*
 
 - ### *G*
+- [Gurveer Singh]
 
 - ### *H*
 - [Hemang Ranjan](https://github.com/Hemang417)
