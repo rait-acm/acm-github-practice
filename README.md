@@ -95,7 +95,7 @@ or
   git branch -M main
   git push -u origin main
 ```
-
+git is a version control system
 If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 ```
